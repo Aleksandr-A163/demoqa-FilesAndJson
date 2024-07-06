@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 
 import java.util.List;
 
-public class testData {
+public class ShopData {
     private String name;
     private String type;
     private String isin;
