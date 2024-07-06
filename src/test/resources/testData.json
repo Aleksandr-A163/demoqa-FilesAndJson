@@ -1,0 +1,14 @@
+{
+  "name": "GOOGL",
+  "type": "STOCK",
+  "isin": "US02079K3059",
+  "exchanges": [
+    "NASDAQ",
+    "TSE"
+  ],
+  "additionalInfo": {
+    "minLotSize": "1",
+    "trading_enabled": true,
+    "has_options": true
+  }
+}
